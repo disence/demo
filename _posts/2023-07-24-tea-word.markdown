@@ -1,0 +1,274 @@
+---
+layout: post
+title:  "茶英语"
+date:   2023-07-24 07:04:53 +0000
+categories: tea_word
+author: <yuhao>
+---
+
+Here are some phrases to help you order food in a restaurant.
+English	Pinyin Traditional Characters	Simplified Characters
+
+```
+- How many people are there?
+請問幾位?	请问几位?
+
+There are ___ people (in our party).
+___ 位｡	___ 位｡
+
+- Smoking or non-smoking?
+抽煙嗎?	抽烟吗?
+
+Are you ready to order?
+可以點菜了嗎?	可以点菜了吗?
+
+Yes, we are ready to order.	Wǒmen yào diǎn cài.
+我們要點菜｡	我们要点菜｡
+
+Not yet, please give us a few more minutes.
+還沒. 再等一下｡	还没. 再等一下｡
+
+I would like ....	
+我要...	我要... .
+
+I will have this.	
+我要這個｡	我要这个｡
+
+That is for me.
+是我的｡	是我的｡
+
+This is not what I ordered.
+這不是我點的｡	这不是我点的｡
+
+Please bring us some....
+請再給我們...｡	请再给我们...｡
+
+Could I have the bill?
+請給我帳單｡	请给我帐单｡
+
+How much is it?
+多少錢?	多少钱?
+
+Can I pay by credit card?	
+我可以用信用卡嗎?	我可以用信用卡吗?
+
+The bill is not right.
+帳單不對｡	帐单不对｡
+```
+
+# Greeting guest
+## Restaurant greeting scripts
+```
+•	Good: Hello, welcome to {restaurant}, how many people will be dining today? 
+•	Bad: "Table for two?"
+•	Good: “Hello, may I have the name on the reservation?” 
+•	Bad: “Do you have a reservation?”
+•	Good: “I’ll take you to your table”
+•	Bad: “Follow me”
+```
+
+## Phone scripts
+```
+•	Good: “Hi, thank you for calling {restaurant name}. This is {receiver name} speaking. How may I help you today?”
+•	Bad: “This is {restaurant name}”
+If the guest’s name has been picked up by caller ID:
+•	Good: “Good afternoon/ evening. Am I speaking with Mr/Ms {guest name}? This is {receiver name} speaking from {restaurant name}. How are you today?“
+•	Bad: “Hi, this is {receiver name}”
+```
+
+## Goodbye scripts
+```
+•	Good: “We hope you enjoyed your visit, Mr/Ms {guest name}, see you again soon!”
+•	Bad: “Goodbye”
+•	Good: “Thank you for visiting us, we hope you have a great rest of the day”
+•	Bad: ”Thanks, bye”
+```
+
+## If the customer is regular:
+```
+•	Good: “It was great having you over once again, we hope to see you soon!”
+•	Bad: “See you again.”
+```
+
+
+# Getting a Table in Chinese
+
+When stepping into a restaurant, there are several phrases that you might be greeted with. Assuming that you’re going out for a meal with friends during peak hours, those greetings might be accompanied by phrases that indicate how busy the place is currently.
+Here are a few things you might hear when you walk into a restaurant.
+
+```
+欢迎光临！ 
+(huān yíng guāng lín!)
+Welcome!
+
+请稍等一下。 
+(qǐng shāo děng yí xià.) 
+Please wait a moment.
+
+对不起，没有位子了。 
+(duì bu qǐ, méi yǒu wèi zi le.)
+Sorry, we are full/have no more seats left.
+
+In addition to these phrases, here are a few questions the waitstaff might ask you (and how you could potentially respond to them).
+
+Example 1:
+A: 你预定一张桌子了吗？ 
+(nǐ yù dìng yì zhāng zhuō zi le ma?)
+Have you booked a table/made a reservation?
+B: 没有。 
+(méi yǒu.)
+No, I haven’t.
+or
+B: 预定了。名字是Sheena。 
+(yù dìng le. míng zì shì Sheena.)
+Yes. [Reservation] name is under Sheena.
+
+Example 2:
+A: 请问几位？ 
+(qǐng wèn jī wèi?)
+[Table] for how many?
+B: 五位。 
+(wǔ wèi.)
+[Table] for five.
+
+Example 3:
+A: 抽烟吗？ 
+(chōu yān ma?)
+Smoking [or non-smoking]?
+B: 不抽烟。 
+(bù chōu yān.)
+Non-smoking.
+
+Example 4:
+A: 现在没有位子。你能等十五分钟吗？ 
+(xiàn zài méi yǒu wèi zi. nǐ néng děng shí wǔ fēn zhōng ma?)
+We have no seats at the moment. Are you willing to wait for 15 minutes?
+B: 没问题。 
+(méi wèn tí.)
+Sure, no problem.
+```
+
+# Browsing a Chinese Menu
+At this point, the waiter or waitress will show you to your table. Depending on how busy the place is, the waitstaff might not hand you a menu right away. In this case, you can flag down a server by calling them 服务员   (fú wù yuán).
+Some textbooks might teach you that 小姐  (xiǎo jiě) or “Miss” is an appropriate way to address a waitress, but in China, it’s slang for prostitute, so best to stick with the respectable term 服务员.
+Here’s what you can ask once you have a server’s attention:
+
+```
+菜单。 
+(cài dān.)
+May we have a menu?
+
+To ask for water, you can use this phrase: number + 杯水 (bēi shǔi). For example:
+三杯水。 
+(sān bēi shǔi.)
+May we have three glasses of water?
+It’s also common to ask for tea: 
+一壶茶。 
+(yì hú chá.)
+May we have a pot of tea?
+
+# Ordering in Chinese
+When you’re ready to order, call over the 服务员 and say：
+点菜。 
+(diǎn cài.) 
+I would like to order.
+
+To start ordering, there’s one key phrase that you need to know: 
+我要 + number + 杯 + drink。
+(wǒ yào + number + bēi + drink.)
+I want [number] glass(es) of [drink].
+
+我要七杯橙汁。 
+(wǒ yào qī bēi chéng zhī.)
+I would like seven glasses of orange juice.
+
+我要三杯这个。 
+(wǒ yào sān bēi zhè ge.) 
+I would like three glasses of this.
+
+If your drink comes in a can, replace 杯 in the formula with 听   (tīng). If your drink comes in a bottle, you would use 瓶   (píng) as your measure word.
+Still want to clarify a couple of things before placing your order? Feel free to ask any of these questions below:
+```
+
+```
+对话：
+Here’s an example conversation between a customer and an employee in a tea restaurant:
+Employee: Hello! Welcome to our tea restaurant. What can I get for you today?
+Customer: Hi! I’m not sure what I want. Can you recommend something?
+Employee: Of course! We have a wide variety of teas available. Do you prefer something sweet or something more savory?
+Customer: I like sweet things.
+Employee: Great! We have a delicious honey lavender tea that I think you’ll really enjoy. It’s one of our most popular teas.
+Customer: That sounds great. I’ll try that.
+Employee: Perfect! Would you like it hot or iced?
+Customer: Iced, please.
+Employee: Alright, one honey lavender iced tea coming right up! Anything else for you today?
+```
+
+# Receiving Your Order
+It’s finally time to receive your order! For sharing plates, the server will just say the name of the dish and place it in the middle. 
+If you’ve ordered something for yourself, you can respond to the 服务员 with:
+我的。 
+(wǒ de.)
+That’s mine.
+
+Sometimes, orders get mixed up or take longer than expected. In those instances, you can say to your server:
+这不是我点的。 
+(zhè bú shì wǒ diǎn de.)
+This isn’t what I ordered.
+
+你们有什么甜点？ 
+(nǐ men yǒu shén me tián diǎn?)
+What desserts do you have?
+
+# Paying the Bill in Chinese
+Now it’s time to pay the bill. Let your server know you’re ready by saying:
+服务员，买单。 
+(fú wù yuán, mǎi dān.)
+Waiter, can we have the bill? 
+
+You’ll also need to specify whether you want one bill or separate bills, so in addition, you’d tell your waiter:
+一起付。 
+(yì qǐ fù.)
+Pay together.
+
+分开付。 
+(fēn kāi fù.)
+Pay separately.
+
+Out of cash, or 现金 (xiàn jīn), and need to pay via other means? Luckily, there are a lot of other ways you can pay your bill in China. Ask your server:
+刷卡可以吗？ 
+(shuā kǎ kě yǐ ma?)
+Can I pay by (debit/credit) card?
+
+微信可以吗？ 
+(wēi xìn kě yǐ ma?)
+Can I pay by WeChat?
+支付宝可以吗？ 
+(zhī fù bǎo kě yǐ ma?)
+Can I pay by AliPay?
+
+Apple Pay可以吗？ 
+(Apple Pay kě yǐ ma?)
+Can I pay by Apple Pay?
+
+And if there are any leftovers you want to take home, just point to the dish and say:
+打包。 
+(dǎ bāo.)
+I’ll pack this up for take-out.
+However, if you’re in Hong Kong, 打包 takes on different meanings: “packing a dead body” and literally, “hit bread.” 
+So when you’re in this region, you’ll have to say 带走 (dài zǒu) or “takeaway,” instead to avoid any confusion!
+
+# Some Notes on Chinese Food Culture
+Most of the time when foreigners describe their dining experiences in China as unpleasant, it’s because they haven’t accepted certain differences between Chinese culture and their own.
+Every nation has their own eating culture, and it’s important to keep an open mind. Knowing how to order food in Mandarin is only half the battle.
+Here are some key characteristics of Chinese food culture:
+
+•	Meals are a social activity. In the West, adults often meet over food and/or drinks at restaurants and bars, but in China (and Asian cultures in general) they’re more likely to socialize with family or friends over a meal in family-friendly establishments.
+•	Chinese restaurants are normally very noisy. Crowds and long lines are signs of great food, and people often associate the noise level of an eatery with the quality of its dishes.
+•	Dishes are shared. Unless it’s a fast food joint, cafeteria-style restaurant or Western establishment, most of the items on the menu are sharing plates rather than individual servings. Round tables with Lazy Susans, along with big serving dishes, all fit in with the communal theme of Chinese food culture.
+•	The more food, the better. When dining with Chinese friends, don’t be surprised by the huge amount of food left over, as leftovers are a sign of wealth and generosity. It might seem wasteful to order that much food, but you can always pack it up at the end of the meal.
+ 
+
+# 参考：
+- How to Drink Tea: 15 Steps (with Pictures) - wikiHow
+- 3 Ways to Serve Tea - wikiHow
