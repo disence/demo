@@ -1,7 +1,8 @@
 ---
-title:  "资料"
+layout: post
+title:  "煎茶|烹茶"
 date:   2023-05-18 07:04:53 +0000
-categories: character
+categories: tea
 author: <yuhao>
 mermaid: true
 img_path: /assets/img/
