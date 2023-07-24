@@ -18,12 +18,12 @@ timezone: Asia/Chongqing
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: TedXchengdu # the main title
+title: KnowledgeShare # the main title
 
-tagline: TedXchengdu blog # it will display as the sub-title
+tagline: KnowledgeShare # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  This the posting for TedXchengdu.
+  This the posting for KnowledgeShare.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ""
